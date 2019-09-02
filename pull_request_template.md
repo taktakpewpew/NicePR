@@ -1,0 +1,5 @@
+- [ ] j'ai fait les tests
+- [ ] j'ai fait de la documentation
+- [ ] j'ai rangé mon historique git
+- [ ] j'ai mis un titre et une description explicite
+- [ ] ma PR fait moins de 250 lignes et respecte le principe de Single Responsability Principle
